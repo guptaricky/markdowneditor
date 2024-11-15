@@ -10,7 +10,7 @@ Assignment by Neokred Technologies Pvt Ltd
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/guptaricky/markdowneditor.git
    cd markdowneditor
 
 2. **Install Backend Dependencies**:
